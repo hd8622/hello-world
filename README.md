@@ -1,2 +1,2 @@
 # hello-world
-Learning basics about git
+Learning basics abou Himanshu Dhar
